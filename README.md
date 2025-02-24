@@ -70,5 +70,5 @@ void loop() {
 }
 ```
 ## Step 4: Upload and Run 
-Watch step by step tutorial here [![Click to Watch the video](naw_digital-youtube.png)](https://youtu.be/OhQOu41KUYQ)
+Watch step by step tutorial here [![Click to Watch the video](smart_dustbin_tutorial-nawdigital.png)](https://youtu.be/OhQOu41KUYQ)
 
