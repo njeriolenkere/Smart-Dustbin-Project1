@@ -1,6 +1,6 @@
 # Smart-Dustbin-Project1
 Dont Open Waste Bins with Hand use lets learn How to Make Smart Dustbin Using Arduino, Ultrasonic Sensor & ChatGPT Tutorial #arduino  | Project1 that opens its lid automatically when it detects an object (such as a hand or trash) within a specified range(we set 20 cm). Smart dustbin helps you maintain hygiene, avoid static shocks etc. This projects works by: The ultrasonic sensor  detects the object’s distance, and the servo motor operates the lid waits 3 seconds the closes the lid. 
-![Wiring Diagram](smart_dustbin_tutorial-nawdigital-youtube.png)
+![Intro Image](smart_dustbin_tutorial-nawdigital-youtube.png)
 
 ## Step 1: Gather all the Necessary Components
 A. Arduino Uno
@@ -16,6 +16,8 @@ K. Thread
 L. Cartoon
 
 ## Step 2: Connect the Components (use wiring diagrams)
+![Wiring Diagram](smart_dustbin_using_arduino_circuit_diagram.jpg)
+
 
 ## Step 3: Write Your Code (using ChatGPT:https://chatgpt.com/)
 ``` C++
