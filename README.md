@@ -3,17 +3,19 @@ Dont Open Waste Bins with Hand use lets learn How to Make Smart Dustbin Using Ar
 ![Intro Image](smart_dustbin_tutorial-nawdigital-youtube.png)
 
 ## Step 1: Gather all the Necessary Components
-A. Arduino Uno
-B. Sensor shield (optional)
-C. Ultrasonic Sensor (HC-SR04) - (An ultrasonic sensor measures the distance of an object by emitting ultrasonic sound waves. The reflected waves from the object are received by the sensor and are converted to corresponding electrical signals.)
-D. Jumpers wires
-E. SG90 Micro-servo motor
-F. Arduino IDE (download IDE from www.arduino.cc/en/)
-G. Dustbin
-H. Computer
-I. Scissors
-K. Thread
-L. Cartoon
+* Arduino Uno
+* Sensor shield (optional)
+* Ultrasonic Sensor (HC-SR04) - (An ultrasonic sensor measures the distance of an object by ...emitting ultrasonic sound waves. The reflected waves from the object are received by the sensor and are converted to corresponding electrical signals.)
+* Jumpers wires
+* SG90 Micro-servo motor
+* Dustbin
+* Computer
+* Scissors
+* Thread
+* Cartoon
+### Software
+* Arduino IDE (download IDE from www.arduino.cc/en/) 
+* ChatGPT (https://chatgpt.com/)
 
 ## Step 2: Connect the Components (use wiring diagrams)
 ![Wiring Diagram](smart_dustbin_using_arduino_circuit_diagram.jpg)
@@ -70,5 +72,5 @@ void loop() {
 }
 ```
 ## Step 4: Upload and Run 
-Watch step by step tutorial here [![Click to Watch the video](smart_dustbin_tutorial-nawdigital.png)](https://youtu.be/OhQOu41KUYQ)
+Watch step by step tutorial here :point_down: [![Click to Watch the video](smart_dustbin_tutorial-nawdigital.png)](https://youtu.be/OhQOu41KUYQ)
 
